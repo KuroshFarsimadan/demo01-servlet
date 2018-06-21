@@ -3,7 +3,7 @@ Java EE demo 1
 
 Copyright (c) 2018 Alireza Kurosh Farsi Madan
 
-All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. Also, no part of this document should be taken without a pinch of humour. 
 
 This Web site, including all of its features and content (the “Web Site”) is a service made available by ALIREZA KUROSH FARSI MADAN and all information, services and software ordered or provided on or through this Web Site (“Materials”) may be used solely under the following terms and conditions (“Terms of Use”).
 
