@@ -97,4 +97,4 @@ These Terms of Use incorporate by reference any notices contained on this Web Si
 
 MODIFICATIONS TO TERMS OF USE
 
-ALIREZA KUROSH FARSI MADAN may make changes to these Terms of Use at any time. When we make any material change to these terms and conditions, we will inform you by posting a notice on the homepage of www.copyright.com for 30 days that the terms and conditions have been updated and by changing the “effective date” on this page, noting when the terms and conditions were last updated. Updated versions of these Terms of Use will appear on this Web Site and are effective immediately. Please review these Terms of Use regularly. Continued use of this Web Site after any such changes constitutes your consent to such changes.
+ALIREZA KUROSH FARSI MADAN may make changes to these Terms of Use at any time.
