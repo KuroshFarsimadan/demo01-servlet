@@ -90,5 +90,7 @@ Terms of ALIREZA KUROSH FARSI MADAN’s Licensing and Other Services. Your use o
 SEVERABILITY OF PROVISIONS
 
 These Terms of Use incorporate by reference any notices contained on this Web Site, ALIREZA KUROSH FARSI MADAN’s Privacy Policy and the terms and conditions applicable to each of ALIREZA KUROSH FARSI MADAN’s licensing or other services. Altogether they constitute the entire agreement between you and ALIREZA KUROSH FARSI MADAN with respect to access to and use of this Web Site and the Materials. If any provision of these Terms of Use is unlawful, void or unenforceable, or conflicts with specific ALIREZA KUROSH FARSI MADAN licensing or other service terms and conditions that are applicable to the circumstances, then that provision of these Terms of Use shall be deemed severable from the remaining provisions and shall not affect the latter’s validity or enforceability.
+
 MODIFICATIONS TO TERMS OF USE
+
 ALIREZA KUROSH FARSI MADAN may make changes to these Terms of Use at any time. When we make any material change to these terms and conditions, we will inform you by posting a notice on the homepage of www.copyright.com for 30 days that the terms and conditions have been updated and by changing the “effective date” on this page, noting when the terms and conditions were last updated. Updated versions of these Terms of Use will appear on this Web Site and are effective immediately. Please review these Terms of Use regularly. Continued use of this Web Site after any such changes constitutes your consent to such changes.
