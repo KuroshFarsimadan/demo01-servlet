@@ -84,7 +84,7 @@ ALIREZA KUROSH FARSI MADAN reserves the right to seek all remedies available at 
 
 GOVERNING LAW AND JURISDICTION
 
-By visiting Copyright.com, you agree that the laws of the State of New York, USA, without regard to principles of conflict of laws, will govern these Terms of Use and any dispute between you and ALIREZA KUROSH FARSI MADAN. Further, you agree that jurisdiction over any action arising out of or relating to these terms is exclusively in the state or federal courts located in New York County, New York, USA, and you hereby consent and submit to the personal jurisdiction of such courts for the purpose of litigating any such action.
+By visiting this site and its content, you agree that the laws of the all states in all countries that have international copyright laws, without regard to principles of conflict of laws, will govern these Terms of Use and any dispute between you and ALIREZA KUROSH FARSI MADAN. Further, you agree that jurisdiction over any action arising out of or relating to these terms is exclusively in the state or federal courts located in New York County, New York, USA, and you hereby consent and submit to the personal jurisdiction of such courts for the purpose of litigating any such action.
 
 ADDITIONAL TERMS
 
